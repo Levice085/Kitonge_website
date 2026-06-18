@@ -1,0 +1,12 @@
+format: jb-book
+root: intro
+
+chapters:
+
+file: about_me
+file: contact
+caption: Projects
+chapters:
+file: projects/uhi
+file: projects/flood_prediction
+file: projects/health_dashboard

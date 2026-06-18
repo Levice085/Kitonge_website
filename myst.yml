@@ -30,10 +30,9 @@ project:
     - title: Introduction
       children:
         - file: pages/preface.md
-    - title: Getting Started
+    - title: My Skills
       children:
-        - file: pages/part01/getting-started.md
-        - file: pages/part01/installation.md
+        - file: pages/part01/my_skills.md
     - title: Examples
       children:
         - file: pages/part02/first-example.md

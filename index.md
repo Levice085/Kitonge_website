@@ -4,11 +4,10 @@ subtitle: Empowering decisions through spatial intelligence and advanced analyti
 ---
 
 ## Introduction
-<img src="pages/images/kitonge_profile.jpeg">
-I build intelligent systems at the intersection of **AI, geospatial analytics, and data science** to turn complex data into real-world impact.
+
+I build intelligent systems at the intersection of AI, geospatial analytics, and data science to turn complex data into real-world impact.
 
 I am a Geospatial Engineer and aspiring AI practitioner passionate about using machine learning, data, and spatial intelligence to solve challenges in climate resilience, public health, and sustainable development.
-
 
 ---
 
@@ -20,14 +19,14 @@ I am a Geospatial Engineer and aspiring AI practitioner passionate about using m
 :link: https://year5project-3ackjxfnliyympfesgbfs3.streamlit.app/
 ![Urban Heat Island](pages/images/uhi.jfif)
 +++
-**UHI Prediction**
+**Urban Heat Island Prediction**
 :::
 
 :::{card}
 :link: https://customerchurnprediction-rx5gddzerehu3dunbgorrc.streamlit.app/
 ![Customer churn](pages/images/customer_churn.jfif)
 +++
-**Customer churn**
+**Customer churn prediction**
 :::
 
 :::{card}
@@ -41,7 +40,7 @@ I am a Geospatial Engineer and aspiring AI practitioner passionate about using m
 :link: https://levice085.github.io/mombasa_ml_classification/
 ![python](pages/images/mombasa_land_cover_screenshot.PNG)
 +++
-**Land Classification**
+**Land Cover Classification**
 :::
 
 ::::
