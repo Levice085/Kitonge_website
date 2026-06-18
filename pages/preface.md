@@ -75,6 +75,33 @@ I care deeply about learning, collaboration, and community. I have contributed t
 
 I am constantly learning—whether through research, open-source projects, workshops, or collaborations.
 
+## My Journey
+
+### 2021 — Foundation
+
+Began my journey in Geospatial Engineering, developing strong analytical and spatial reasoning skills.
+
+### 2023 — Data Science
+
+Expanded into machine learning and predictive analytics using Python and R.
+
+### 2024 — Applied AI
+
+Built real-world AI projects including health dashboards and predictive environmental models.
+
+### 2025+ — AI Engineering
+
+Focusing on MLOps, scalable ML systems, and production-ready AI applications.
+
+## Current Focus
+
+I am currently exploring:
+
+* Machine Learning Engineering
+* MLOps & Model Deployment
+* Deep Learning
+* Applied AI for African challenges
+
 ## My Vision
 
 My long-term goal is to become an AI engineer and researcher building scalable intelligent systems for Africa. I want to contribute to a future where AI empowers communities, improves decision-making, and drives sustainable development.

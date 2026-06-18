@@ -33,10 +33,10 @@ project:
     - title: My Skills
       children:
         - file: pages/part01/my_skills.md
-    - title: Examples
+    - title: Projects
       children:
-        - file: pages/part02/first-example.md
-    - file: blog.md
+        - file: pages/projects/uhi.md
+    - file: contact.md
       children:
         - file: tags/myst-markdown.md
         - file: tags/tutorial.md

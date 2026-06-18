@@ -11,7 +11,7 @@ kernelspec:
 title: Skills
 abstract: ""
 authors:
-  - name: Author Name
+  - name: Levis Kitonge
 exports:
   - format: typst
     template: lapreprint-typst
