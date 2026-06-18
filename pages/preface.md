@@ -11,25 +11,76 @@ kernelspec:
 title: Preface
 abstract: ""
 authors:
-  - name: Author Name
+  - name: Levis Kitonge
 exports:
   - format: typst
     template: lapreprint-typst
     output: _build/exports/typst/
 ---
 
-# Preface
+# About me
 
-Welcome to this book. This preface provides an overview of what you will learn.
+Hi, I’m **Levis Kitonge** — a Geospatial Engineer, data scientist, and aspiring AI engineer based in Nairobi, Kenya.
 
-## Who This Book Is For
+I work at the intersection of **artificial intelligence, geospatial analytics, and decision intelligence**, where I use data to understand complex systems and build solutions for real-world challenges. My work is driven by a simple but powerful question:
 
-This book is for anyone interested in the topic.
+> How can we use data not just to understand the world, but to improve it?
 
-## How to Use This Book
+This question has shaped my journey into machine learning, predictive analytics, and applied AI.
 
-Each chapter builds on the previous one. Start from the beginning and work your way through.
+## What I Do
 
-## Acknowledgements
+I build data-driven systems that transform raw, complex datasets into actionable insights. My technical work spans:
 
-Thank you to everyone who contributed to this book.
+* **Machine Learning & AI** — predictive modeling, model evaluation, and applied AI workflows
+* **Geospatial Analytics** — remote sensing, spatial analysis, GIS, and satellite data processing
+* **Data Science** — data cleaning, feature engineering, statistical analysis, and visualization
+* **MLOps** — experiment tracking with MLflow, CI/CD pipelines, and scalable ML workflows
+* **Data Visualization** — dashboards and interactive tools for decision support
+
+I enjoy solving problems where data, space, and intelligence intersect.
+
+## Areas of Interest
+
+I am especially interested in applying AI and data science to high-impact domains such as:
+
+* Climate resilience and environmental sustainability
+* Public health analytics
+* Urban planning and smart cities
+* Risk assessment and predictive intelligence
+
+I believe that some of Africa’s most pressing challenges can be addressed through intelligent systems designed with local context in mind.
+
+## Projects I’ve Built
+
+Over the years, I have worked on projects that combine analytics, modeling, and real-world impact, including:
+
+### Urban Heat Island Analysis
+
+A machine learning-driven project that uses satellite imagery and geospatial data to analyze temperature patterns in urban environments and identify heat-risk zones.
+
+### Customer churn prediction
+
+A predictive analytics project to deduce the probability of a customer to churn from a telecommunication service provider
+
+### Health Tracker Dashboard
+
+An interactive dashboard built in R for analyzing and visualizing health trends to support data-driven decision-making.
+
+Each project has strengthened my belief that meaningful AI is not just about building models—it is about building systems people can trust and use.
+
+## Beyond Technical Work
+
+I care deeply about learning, collaboration, and community. I have contributed to student-led initiatives such as the IEEE GRSS student chapter, where I helped create a platform for knowledge sharing and innovation in geospatial sciences.
+
+I am constantly learning—whether through research, open-source projects, workshops, or collaborations.
+
+## My Vision
+
+My long-term goal is to become an AI engineer and researcher building scalable intelligent systems for Africa. I want to contribute to a future where AI empowers communities, improves decision-making, and drives sustainable development.
+
+I believe the future belongs to people who can bridge **technology, domain knowledge, and human-centered design**.
+
+And that is the future I am working toward.
+
+

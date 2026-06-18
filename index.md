@@ -1,11 +1,12 @@
 ---
-title: Website Title
-subtitle: Subtitle of the book
+title: Levis Kitonge
+subtitle: Empowering decisions through spatial intelligence and advanced analytics
 ---
 
 ## Introduction
 
-Welcome to the official repository for _**Website Title**_. This repository contains all the code examples featured in the book.
+I build intelligent systems at the intersection of **AI, geospatial analytics, and data science** to turn complex data into real-world impact.
+
 
 ---
 
@@ -14,31 +15,31 @@ Welcome to the official repository for _**Website Title**_. This repository cont
 ::::{grid} 2 2 4 4
 
 :::{card}
-:link: https://mystmd.org
-![mystmd](pages/images/myst.webp)
+:link: https://year5project-3ackjxfnliyympfesgbfs3.streamlit.app/
+![Urban Heat Island](pages/images/uhi.jfif)
 +++
-**MyST Markdown**
+**Urban Heat Island Prediction**
 :::
 
 :::{card}
-:link: https://jupyterbook.org
-![jupyter-book](pages/images/jupyter-book.webp)
+:link: https://customerchurnprediction-rx5gddzerehu3dunbgorrc.streamlit.app/
+![jupyter-book](pages/images/customer_churn.jfif)
 +++
-**Jupyter Book**
+**Customer churn prediction**
 :::
 
 :::{card}
-:link: https://jupyter.org
-![jupyter](pages/images/jupyter.webp)
+:link: https://levice085.shinyapps.io/mombasa-health-tracker/
+![jupyter](pages/images/health_dashboard.png)
 +++
-**Jupyter**
+**Health tracker**
 :::
 
 :::{card}
-:link: https://python.org
-![python](pages/images/python.webp)
+:link: https://levice085.github.io/mombasa_ml_classification/
+![python](pages/images/mombasa_land_cover_screenshot.png)
 +++
-**Python**
+**Land Cover Classification**
 :::
 
 ::::

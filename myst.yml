@@ -1,6 +1,6 @@
 version: 1
 project:
-  title: Website Title
+  title: Levis Kitonge
   # authors:
   #   - name: Author Name
   copyright: '2026'
@@ -16,10 +16,10 @@ project:
     - CONDUCT.md
     - CONTRIBUTING.md
     - README.md
-  github: opengeos/myst-website-template
+  github: Levice085/Kitonge_website
   thebe:
     binder:
-      repo: opengeos/myst-website-template
+      repo: Levice085/Kitonge_website
       provider: github
       url: https://mybinder.org
       ref: main
@@ -27,7 +27,7 @@ project:
     - pages/references.bib
   toc:
     - file: index.md
-    - title: Preface
+    - title: Introduction
       children:
         - file: pages/preface.md
     - title: Getting Started
