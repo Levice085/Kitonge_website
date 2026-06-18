@@ -4,7 +4,7 @@ I’m always open to discussing AI, machine learning, geospatial analytics, rese
 
 ## Reach Me
 
-📍 Nairobi, Kenya
+Nairobi, Kenya
 📧 Email: [leviskitonge@email.com](mailto:leviskitonge@email.com)
 📱 Phone: +254 115 249 130
 

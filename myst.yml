@@ -37,12 +37,6 @@ project:
       children:
         - file: pages/projects/uhi.md
     - file: contact.md
-      children:
-        - file: tags/myst-markdown.md
-        - file: tags/tutorial.md
-        - file: tags/github-pages.md
-    - pattern: posts/*.md
-      hidden: true
 site:
   options:
     logo: logo.png
@@ -51,9 +45,4 @@ site:
     folders: true
     style: custom.css
     # analytics_google: G-XXX
-  actions:
-    - title: RSS
-      url: https://opengeos.org/myst-website-template/rss.xml
-  template: book-theme
-  parts:
-    primary_sidebar_footer: ''
+  

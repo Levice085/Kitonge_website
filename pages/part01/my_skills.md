@@ -8,8 +8,7 @@ kernelspec:
   display_name: Python 3
   language: python
   name: python3
-title: Skills
-abstract: ""
+title: My Technical Skills
 authors:
   - name: Levis Kitonge
 exports:

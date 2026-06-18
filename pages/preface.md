@@ -9,7 +9,6 @@ kernelspec:
   language: python
   name: python3
 title: About me
-abstract: ""
 authors:
   - name: Levis Kitonge
 exports:
@@ -18,7 +17,7 @@ exports:
     output: _build/exports/typst/
 ---
 
-# About me
+# About
 
 Hi, I’m **Levis Kitonge** — a Geospatial Engineer, data scientist, and aspiring AI engineer based in Nairobi, Kenya.
 
